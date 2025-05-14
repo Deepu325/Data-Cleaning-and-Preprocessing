@@ -10,10 +10,15 @@ Clean and preprocess a raw marketing dataset by:
 
 This process prepares the dataset for analysis and ensures data quality.
 
-📂 Dataset Used
+
+Dataset Used
+
 Name:Customer Personality Analysis
+
 Filename: marketing_campaign.csv
+
 Source:[Kaggle Dataset](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis)
+
 Description:The dataset contains customer demographics, spending habits, and campaign response data. Useful for customer segmentation and marketing analysis.
 
 Data Cleaning Steps Performed
